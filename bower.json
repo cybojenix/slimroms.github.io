@@ -1,0 +1,27 @@
+{
+  "name": "slimroms.github.io",
+  "version": "0.0.0",
+  "homepage": "http://slimroms.eu",
+  "authors": [
+    "Anthony King <anthonydking@slimroms.net>"
+  ],
+  "description": "SlimRoms Website",
+  "license": "GPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.8-preview",
+    "core-drawer-panel": "Polymer/core-drawer-panel#0.8-preview",
+    "font-roboto": "Polymer/font-roboto#master",
+    "core-toolbar": "Polymer/core-toolbar#0.8-preview",
+    "core-icons": "Polymer/core-icons#0.8-preview",
+    "paper-item": "cybojenix/paper-item#patch-1",
+    "paper-ripple": "Polymer/paper-ripple#0.8-preview",
+    "paper-fab": "Polymer/paper-fab#0.8-preview"
+  }
+}
